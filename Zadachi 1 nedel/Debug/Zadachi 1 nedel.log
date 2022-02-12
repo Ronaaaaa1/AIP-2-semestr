@@ -1,0 +1,4 @@
+﻿  mein.cpp
+D:\proect\Zadachi 1 nedel\mein.cpp(7): warning C4101: a: неиспользованная локальная переменная
+D:\proect\Zadachi 1 nedel\mein.cpp(7): warning C4101: b: неиспользованная локальная переменная
+  Zadachi 1 nedel.vcxproj -> D:\proect\Zadachi 1 nedel\Debug\Zadachi 1 nedel.exe
