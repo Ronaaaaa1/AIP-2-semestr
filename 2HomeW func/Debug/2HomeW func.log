@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\proect\2HomeW func\Source.cpp(47): warning C4715: calc: значение возвращается не при всех путях выполнения
+  2HomeW func.vcxproj -> D:\proect\2HomeW func\Debug\2HomeW func.exe
