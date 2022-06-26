@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Рона\Desktop\8HWork.3\Source.cpp(49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  8HWork.3.vcxproj -> C:\Users\Рона\Desktop\8HWork.3\Debug\8HWork.3.exe
